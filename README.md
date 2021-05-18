@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 💅 Recently launched a web and mobile responsive React app for a small business: [Monica's Pastry Cakes](https://www.monicaspastrycakes.com/)
+- 💅 Recently launched a web and mobile responsive React/AWS app for a small business: [Monica's Pastry Cakes](https://www.monicaspastrycakes.com/)
 - 🎙 Testing out my algorithmic trading bot based on real-time stock prices: [Blog post about this project](https://kunal-patil.ghost.io/algorithmic-trading-project/)
 - 🔭 Researching about [HFT (High-frequency trading) algorithms](https://en.wikipedia.org/wiki/High-frequency_trading) for my bot.
 - ⚡ Creating a React app to visualize the work performed by my trading bot. Integrated via [Canvasjs](https://canvasjs.com/).
