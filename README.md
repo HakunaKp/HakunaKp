@@ -7,7 +7,7 @@
 - 💅 Recently launched a web and mobile responsive React/AWS app for a small business: [Monica's Pastry Cakes](https://www.monicaspastrycakes.com/)
 - 🎙 Testing out my algorithmic trading bot based on real-time stock prices: [Blog post about this project](https://kunal-patil.ghost.io/algorithmic-trading-project/)
 - 🔭 Researching about [HFT (High-frequency trading) algorithms](https://en.wikipedia.org/wiki/High-frequency_trading) for my bot.
-- ⚡ Creating a React app to visualize my trading bot's analysis. Integrated via [Chartjs](https://www.chartjs.org/). [Project Repository](https://github.com/HakunaKp/React-Market-Analysis)
+- ⚡ Creating a React app to visualize the work performed by my trading bot: [Project Repository](https://github.com/HakunaKp/React-Market-Analysis)
 
 ##### BIO
 
