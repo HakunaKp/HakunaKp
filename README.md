@@ -4,8 +4,8 @@
 
 ##### NOW
 
+- 🎙 Building a Django app where users can build trading portfolios and run simulated trading strategies: [Financial Dashboard](https://github.com/HakunaKp/Financial-Dashboard)
 - 💅 Recently launched a web and mobile responsive React/AWS app for a small business: [Monica's Pastry Cakes](https://www.monicaspastrycakes.com/)
-- 🎙 Building a Django app which uses CoinGecko and Alpaca API to automatically place market orders based on backtested strategies. 
 - 🔭 Researching about [HFT (High-frequency trading) algorithms](https://en.wikipedia.org/wiki/High-frequency_trading) for my bot.
 - ⚡ Prepping for grad school at Illinois Tech!
 
