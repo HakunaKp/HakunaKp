@@ -11,7 +11,6 @@
 
 ##### BIO
 
-- 🌱 Learning about **FinTech**, Fascinated by **Machine Learning**.
-- 🎙 Hobbies include: **cooking**, **running**, and **rock climbing**.
-- 💬 Talk to me about **web development**, **ML algorithms**, **website ideas**, **anything**!
+- 🌱 I'm learning about **FinTech** and fascinated by its applications of **Machine Learning**.
+- 🎙 Some of my hobbies include **cooking**, **running**, and **rock climbing**.
 - ⚡️ Fun fact: I have a Husky named [Yaeji](https://raw.githubusercontent.com/HakunaKp/HakunaKp/main/Yaeji.jpg). He is my best friend and the ultimate running partner.
